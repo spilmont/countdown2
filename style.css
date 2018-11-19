@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+#box-1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+#cadran{
+
+    width: 20%;
+    height: 100px;
+    margin: auto auto auto auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 2em;
+    font-family: Radioland ;
+    color: red;
+    background-color: black;
+
+}
+
+#lecture{
+
+}
